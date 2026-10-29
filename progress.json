@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-29T12:41:59.830Z",
+  "items": {
+    "problem:248": {
+      "kind": "problem",
+      "id": "248",
+      "title": "Calculate Model Inference Statistics for Monitoring",
+      "difficulty": "easy",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/248",
+      "path": "problems/0248-calculate-model-inference-statistics-for-monitoring",
+      "first_solved_at": "2026-10-29T12:41:54.523Z",
+      "last_pushed_at": "2026-10-29T12:41:54.523Z",
+      "language": "python",
+      "lines": 40
+    }
+  }
+}
