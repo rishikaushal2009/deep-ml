@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 3 problems · 0 labs · 0 math
+**4** solved · 4 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-10-30 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-10-29 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-10-29 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-30 | [solution](problems/0017-k-means-clustering) |
 
 ---
 
