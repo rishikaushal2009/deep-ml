@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**7** solved · 7 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-10-29 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-10-31 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-30 | [solution](problems/0017-k-means-clustering) |
+| [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-10-31 | [solution](problems/0388-sliding-window-attention) |
 
 ---
 
